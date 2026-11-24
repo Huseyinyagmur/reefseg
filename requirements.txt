@@ -1,0 +1,22 @@
+
+# Dataset and data processing
+datasets
+huggingface_hub
+numpy
+pillow
+opencv-python
+
+# Visualization and analysis
+matplotlib
+seaborn
+pandas
+tqdm
+
+# Deep Learning utilities
+torchmetrics
+torchvision
+
+# Development
+ipykernel
+jupyter
+scikit-learn
